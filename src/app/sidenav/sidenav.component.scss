@@ -1,0 +1,23 @@
+.sidenav {
+  background-color: #438459;
+  height: 450px;
+  width: 150px;
+  float: left;
+}
+
+a {
+  text-decoration: none;
+  color: White;
+  font-family: sans-serif;
+}
+
+li :hover {
+  background-color: darkgreen;
+  color: white;
+  padding: 5px;
+}
+
+.active {
+    background: green;
+    padding: 5px;
+}
